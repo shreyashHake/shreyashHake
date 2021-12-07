@@ -18,6 +18,9 @@
 - 🏏 I like to play cricket.
 - ❤  I love to read about latest technologies, finance, etc.
 
+---
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Working With:
+
 <p align="center">
       <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
       <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="KOTLIN" width="45" height="45"/>
@@ -29,7 +32,6 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Github Stats:
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyashHake&show_icons=true&locale=en&layout=compact" alt="shreyashHake" /></p>
-<br>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyashHake&show_icons=true&locale=en" alt="shreyashHake" /></p>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashHake&" alt="shreyashHake" /></p>
 <h6 align='center'> 𝐈𝐦𝐚𝐠𝐞 𝐂𝐫𝐞𝐝𝐢𝐭𝐬:  All credits to the respective owner of the .gif .svg and .png files used </h6>
