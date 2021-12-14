@@ -13,7 +13,6 @@
 - 🏦 I'm a 3rd year Computer Science Student at <a href ="https://ghrce.raisoni.net/" target="_blank">GHRCE.</a>
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 **Java** is my primary progrmming language.
-- 📖 Currently learning **HTML and CSS** from [freecodecamp](https://www.freecodecamp.org/learn/responsive-web-design/).
 - 👨‍💻 Worked on Andorid Development using Java and Kotlin at basic level.
 - 🏏 I like to play cricket.
 - ❤  I love to read about latest technologies, finance, etc.
