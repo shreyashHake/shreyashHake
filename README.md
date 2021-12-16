@@ -10,12 +10,10 @@
 </p>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
-- 🏦 I'm a 3rd year Computer Science Student at <a href ="https://ghrce.raisoni.net/" target="_blank">GHRCE.</a>
+- 🏦 I'm a pre final year Computer Science Student
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 **Java** is my primary progrmming language.
 - 👨‍💻 Worked on Andorid Development using Java and Kotlin at basic level.
-- 🏏 I like to play cricket.
-- ❤  I love to read about latest technologies, finance, etc.
 
 ---
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Languages and Tools:
