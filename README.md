@@ -13,7 +13,7 @@
 - 🏦 I'm a pre final year Computer Science Student
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 **Java** is my primary progrmming language.
-- 👨‍💻 Worked on Andorid Development using Java and Kotlin at basic level.
+- 👨‍💻 Worked on Andorid Development using **Java** and **Kotlin** at basic level.
 
 ---
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Languages and Tools:
