@@ -19,9 +19,12 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Languages and Tools:
 
 <p align="center">
-      <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="KOTLIN" width="45" height="45"/>
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="50" height="50"/>
+      <img padding="15px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
+      <img padding="15px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="KOTLIN" width="45" height="45"/>
+      <img padding="15px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="50" height="50"/>
+      <img padding="15px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="50" height="50"/>
+      <img padding="15px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="50" height="50"/>
+      <img padding="15px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JavaScript" width="50" height="50"/>
 </p>
 
 ---
