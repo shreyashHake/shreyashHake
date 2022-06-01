@@ -1,4 +1,4 @@
-# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hi there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px" height="29px">
 <p align="center">
 <a href="https://twitter.com/HakeShreyash" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="shreyashHake" height="30" width="30" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/shreyash-hake-7b3b20193/" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="shreyashHake" height="30" width="30" /></a>&nbsp;
@@ -9,14 +9,14 @@
   <img align="center" width="400" align='left' src="https://github.com/shreyaschavhan/shreyaschavhan/blob/main/Images/Coding.gif">
 </p>
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px" height="40px"> About Me:
 - 🏦 I'm a pre final year Computer Science Student
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 💻 **Java** is my primary progrmming language.
 - 👨‍💻 Worked on Andorid Development using **Java** and **Kotlin** at basic level.
 
 ---
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Languages and Tools:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px" height="40px"> Languages and Tools:
 
 <p align="center">
       <img padding="15px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
@@ -29,7 +29,7 @@
 
 ---
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> Github Stats:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="40px" height="40px"> Github Stats:
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyashHake&show_icons=true&locale=en&layout=compact" alt="shreyashHake" /></p>
 <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyashHake&show_icons=true&locale=en" alt="shreyashHake" /></p>
