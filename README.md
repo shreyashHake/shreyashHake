@@ -5,9 +5,15 @@
 <a href="https://discord.com/channels/$hréyàsh#8235" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="shreyashHake#4040" height="35" width="35" /></a>&nbsp;
 </p>
 
-<!-- <p align="center">
+<!-- Image 1 :  
+<p align="center">
   <img align="center" width="400" align='left' src="https://github.com/shreyaschavhan/shreyaschavhan/blob/main/Images/Coding.gif">
-</p> -->
+</p> 
+
+Git stats : 
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyashHake&show_icons=true&locale=en" alt="shreyashHake" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashHake&" alt="shreyashHake" /></p>
+-->
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="35px" height="35px"> About Me:
 - 🏫 I'm a final year Computer Science Student
@@ -32,8 +38,7 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="35px" height="35px"> Github Stats:
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyashHake&show_icons=true&locale=en&layout=compact" alt="shreyashHake" /></p>
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shreyashHake&show_icons=true&locale=en" alt="shreyashHake" /></p>
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreyashHake&" alt="shreyashHake" /></p>
+
 <h6 align='center'> 𝐈𝐦𝐚𝐠𝐞 𝐂𝐫𝐞𝐝𝐢𝐭𝐬:  All credits to the respective owner of the .gif .svg and .png files used </h6>
 
 ---
