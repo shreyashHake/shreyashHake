@@ -5,7 +5,7 @@
 <a href="https://discord.com/channels/$hréyàsh#8235" target="_blank"><img align="center" src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="shreyashHake#4040" height="35" width="35" /></a>&nbsp;
 </p>
 
-<!-- Image 1 :  
+<!-- Image 1 :  to add hover
 <p align="center">
   <img align="center" width="400" align='left' src="https://github.com/shreyaschavhan/shreyaschavhan/blob/main/Images/Coding.gif">
 </p> 
