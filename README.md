@@ -25,13 +25,17 @@ Git stats :
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="35px" height="35px"> Languages and Tools:
 
 <p align="center">
-      <img padding="15px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="65" height="65"/> 
-      <img padding="15px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="KOTLIN" width="45" height="45"/>
-      <img padding="15px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="GIT" width="50" height="50"/>
-      <img padding="15px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="50" height="50"/>
-      <img padding="15px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="50" height="50"/>
-      <img padding="15px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JavaScript" width="50" height="50"/>
+  <img style="margin-right: 15px" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" width="65" height="65"/> 
+  <img style="margin-right: 15px" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="45" height="45"/>
+  <img style="margin-right: 15px" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" alt="Angular" width="45" height="45"/>
+  <img style="margin-right: 15px" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="Spring Boot" width="45" height="45"/>
+  <img style="margin-right: 15px" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="PostgreSQL" width="45" height="45"/>
+  <img style="margin-right: 15px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50"/>
+  <img style="margin-right: 15px" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" alt="HTML" width="50" height="50"/>
+  <img style="margin-right: 15px" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" alt="CSS" width="50" height="50"/>
+  <img style="margin-right: 15px" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JavaScript" width="50" height="50"/>
 </p>
+
 
 ---
 
