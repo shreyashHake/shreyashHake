@@ -16,7 +16,6 @@ Git stats :
 -->
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="35px" height="35px"> About Me:
-- 🏫 I'm a final year Computer Science Student
 - ♨ **Java** is my primary progrmming language.
 - 👨‍💻 Worked on Andorid Development using **Java** and **Kotlin** at basic level.
 - 💻 Exploring Web Technologies.
